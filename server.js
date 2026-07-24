@@ -26,7 +26,7 @@ app.use(
 
 app.get("/", (req,res)=>{
     
-    res.send("WAKTU BUNDLE HABIS, SERVER MATI UNTUK SEMENTARA");
+    res.send("CRASH... WAKTU BUNDLE HABIS, SERVER MATI UNTUK SEMENTARA");
     
 });
 
