@@ -188,9 +188,9 @@ p{
 
     <p>
         Layanan untuk sementara tidak dapat digunakan karena
-        kuota bundle server telah habis.
+        kuota langganan server telah habis.
         <br><br>
-        Silakan kembali beberapa saat lagi.
+        Silakan kembali dan perpanjang langganan anda.
     </p>
 
     <div class="badge">
